@@ -4,11 +4,6 @@
   "logo": "https://scalingo.com/logo.svg",
   "repository": "https://github.com/Scalingo/sample-python-flask",
   "website": "https://sample-python-flask.scalingo.io",
-  "formation": {
-    "web": {
-      "amount": 1,
-      "size": "2XL"
-    }
-  }
+  
 }
 
